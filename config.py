@@ -14,19 +14,19 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐃ɛʂꙷʈͦɪͧղͬ𝐘... ᴍᴜsɪᴄ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "༎ࠫ🫧⛧‌ٖٖٖٖٖٖٜٖٖٖٖ 𝐑σуαℓ•𝆺꯭𝅥𝐐υєєи ⛧‌ٖٖٖٖٖٖٜٖٖٖٖᥫᩣ●")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/DAXXSIR/DAXXMUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/sarcasticsamm/MOONLIGHT")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Cyberdaxx")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Cyberdaxxx")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/khamoshiya01")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/friendship_forever_group143")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
