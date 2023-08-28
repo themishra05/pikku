@@ -61,20 +61,20 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="✭𝙶𝚁𝙾𝚄𝙿✭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="✭ᴄʜᴀɴɴᴇʟ✭", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/daxxsir3"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/ltzz_me_innocent"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="✭ᴄʟᴏꜱᴇ✭", callback_data=f"close"
             )
         ],
     ]
@@ -131,20 +131,20 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="✭ɢʀᴏᴜᴘ✭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="✭ᴄʜᴀɴɴᴇʟ✭", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/daxxsir3"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/ltzz_me_innocent"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="✭ᴄʟᴏꜱᴇ✭", callback_data=f"close"
             )
         ],
     ]
@@ -173,20 +173,20 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="✭ɢʀᴏᴜᴘ✭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="✭ᴄʜᴀɴɴᴇʟ✭", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/daxxsir3"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/ltzz_me_innocent"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="✭ᴄʟᴏꜱᴇ✭", callback_data=f"close"
             )
         ],
     ]
@@ -212,20 +212,20 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="✭ɢʀᴏᴜᴘ✭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="✭ᴄʜᴀɴɴᴇʟ✭", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/daxxsir3"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/ltzz_me_innocent"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="✭ᴄʟᴏꜱᴇ✭", callback_data=f"close"
             )
         ],
     ]
@@ -352,7 +352,7 @@ close_keyboard = InlineKeyboardMarkup(
                         text="ᴄʟᴏꜱᴇ", callback_data="close"
                     ),
                     InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/daxxsir3"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/ltzz_me_innocent"
                     )
                 ]    
             ]
@@ -383,20 +383,20 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ɢʀᴏᴜᴘ", url=config.SUPPORT_GROUP
+                text="✭ɢʀᴏᴜᴘ✭", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL
+                text="✭ᴄʜᴀɴɴᴇʟ✭", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/daxxsir3"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/ltzz_me_innocent"
             )
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʟᴏꜱᴇ", callback_data=f"close"
+                text="✭ᴄʟᴏꜱᴇ✭", callback_data=f"close"
             )
         ],
     ]
