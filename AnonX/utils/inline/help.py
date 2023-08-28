@@ -77,8 +77,8 @@ def help_pannel(_, START: Union[bool, int] = None):
                     callback_data="help_callback hb9",
                 ),
                 InlineKeyboardButton(
-                    text="more",
-                    url="https://t.me/daxxsir3"
+                    text="⎯꯭‌𝆺꯭𝅥𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁✭",
+                    url="https://t.me/ltzz_me_innocent"
                 ),
                     
             ],
