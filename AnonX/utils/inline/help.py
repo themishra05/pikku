@@ -78,7 +78,7 @@ def help_pannel(_, START: Union[bool, int] = None):
                 ),
                 InlineKeyboardButton(
                     text="⎯꯭‌𝆺꯭𝅥𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁✭",
-                    url="https://t.me/ltzz_me_innocent"
+                    url="https://t.me/Moon_here_1"
                 ),
                     
             ],
