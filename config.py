@@ -76,14 +76,14 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/facca257db0005c431d3e.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/a0aa468f503bc8922a958.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
     "https://telegra.ph/file/5386bec573ea8779460f0.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/facca257db0005c431d3e.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/a0aa468f503bc8922a958.jpg"
 
 GLOBAL_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
 
@@ -97,7 +97,7 @@ STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/facca257db0005c431d3e.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/a0aa468f503bc8922a958.jpg"
 
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 
@@ -135,4 +135,4 @@ if PING_IMG_URL:
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://te.legra.ph/file/facca257db0005c431d3e.jpg"
+            START_IMG_URL = "https://telegra.ph/file/a0aa468f503bc8922a958.jpg"
