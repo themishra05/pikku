@@ -14,19 +14,19 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝄟‌≛⃝🥀𝗠ʘ𝖔𝒏ใïᧁ𝒉𝐭⎯꯭‌𝆺꯭𝅥✗𝐃᭄𓆪ꪾ🥀")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹нєєиα ꭙ ꝛσʙσᴛ˼")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/sarcasticsamm/MOONLIGHT")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/themishra05/pikku")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/khamoshiya01")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/friendship_forever_group143")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SHAYRI_W0RLD")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/MISHRA_X_SUPPORT")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -76,7 +76,7 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/6ed33798ede6345ee15c1.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
