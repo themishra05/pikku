@@ -41,15 +41,15 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="⎯꯭‌⎯꯭‌𝄟‌≛⃝🥀𝆺꯭𝅥𝚂𝚄𝙿𝙿𝙾𝚁𝚃✭", url=config.SUPPORT_GROUP
+                text="⎯꯭‌⎯꯭‌𝄟‌≛⃝🥀SUPPORT𝆺𝅥", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="⎯꯭‌𝄟‌≛⃝🥀𝆺꯭𝅥𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁✭", user_id=OWNER
+                text="⎯꯭‌𝄟‌≛⃝🥀OWNER𝆺𝅥", user_id=OWNER
             )
         ],
         [
             InlineKeyboardButton(
-                text="༎ࠫ🫧⛧‌ٖٖٖٖٖٖٜٖٖٖٖ⎯꯭‌𝆺꯭𝅥ᴿᴱᴾᴼ .𓈀✔", callback_data="gib_source"
+                text="༎ࠫ⎯꯭‌𝆺꯭𝅥ᴿᴱᴾᴼ", callback_data="gib_source"
             )
         ],
      ]
