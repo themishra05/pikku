@@ -69,7 +69,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Moon_here_1"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/the_mishra_05"
             )
         ],
         [
@@ -139,7 +139,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Moon_here_1"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/the_mishra_05"
             )
         ],
         [
@@ -181,7 +181,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Moon_here_1"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/the_mishra_05"
             )
         ],
         [
@@ -220,7 +220,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Moon_here_1"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/the_mishra_05"
             )
         ],
         [
@@ -352,7 +352,7 @@ close_keyboard = InlineKeyboardMarkup(
                         text="✭ᴄʟᴏꜱᴇ✭", callback_data="close"
                     ),
                     InlineKeyboardButton(
-                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Moon_here_1"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/the_mishra_05"
                     )
                 ]    
             ]
@@ -391,7 +391,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Moon_here_1"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/the_mishra_05"
             )
         ],
         [
