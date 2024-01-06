@@ -10,7 +10,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="𝄟‌≛⃝🥀𝙰𝙳𝙳 𝙼𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂᭄𓆪ꪾ🥀",
-                url=f"https://t.me/Heena_X_Robot?startgroup=true",
+                url=f"https://t.me/KALINGA_MUSIC_BOT?startgroup=true",
             )
         ],
         [
@@ -31,7 +31,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="𝄟‌≛⃝🥀𝙰𝙳𝙳 𝙼𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂᭄𓆪ꪾ🥀",
-                url=f"https://t.me/Heena_X_Robot?startgroup=true",
+                url=f"https://t.me/KALINGA_MUSIC_BOT?startgroup=true",
             )
         ],
         [
