@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹нєєиα ꭙ ꝛσʙσᴛ˼")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "「⋆ Kᴀʟɪɴɢᴀ ✘ Mᴜsɪᴄ ◉」")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 
@@ -26,7 +26,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SHAYRI_W0RLD")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/AKHANDBHARRAT")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/KalingaFamilyGroup")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
